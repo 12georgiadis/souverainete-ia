@@ -12,7 +12,7 @@ We will go through them from the most reversible layer to the most locked-in. Th
 
 This is where everyone always looks, and this is where the dependence matters least.
 
-As of 14 June 2026, no European model sits at the global frontier. The top of the table is held by Claude, GPT-5.5 and Gemini 3.1. Mistral, the European champion, has raised on the order of 4 billion dollars in total, compared to roughly 186 billion for OpenAI and 161 billion for Anthropic. The capital gap is a factor of fifty.
+As of 14 June 2026, no European model sits at the global frontier. The top of the table is held by Claude, GPT-5.5 and Gemini 3.1. Mistral, the European champion, has raised on the order of 4 billion dollars in total, compared to roughly 186 billion for OpenAI and 125 billion for Anthropic. The capital gap is a factor of forty to fifty.
 
 But this lag is largely a false problem, and it has to be stated precisely so as not to fight the wrong battle. First because the model layer is becoming a commodity: distillation, mixture of experts, quantization and publicly available training recipes shrink the gap with the frontier to roughly ten points and three to six months, while the cost per token falls by a factor of ten per year. The proof in reverse is legal: lacking any durable technical barrier, the United States now defends its lead through the law. Second because the raw measure is misleading: Mistral Large 3 posts 43.9% on the GPQA Diamond reasoning benchmark, but in standard mode, with reasoning switched off; its reasoning variants close most of the gap. Mistral, for that matter, does not compare itself to the closed American models but to its open peers, DeepSeek or Kimi.
 
@@ -26,9 +26,9 @@ Two caveats, however. The first: global open weights are dominated by China, not
 
 Europe accounts for around 5% of global AI compute, against 70 to 80% for the United States and 11% for China, and that share has been falling since the start of 2025.
 
-But the real bottleneck is no longer capital. The private money exists (more than 200 billion euros of stated interest). What is blocking things is **connection to the electricity grid**: seven to thirteen years of queueing on average across the major European hubs, for industrial electricity roughly twice as expensive as in the United States. Denmark proved this brutally in May 2026: its grid operator had to impose a three-month moratorium on new connections, with 60 GW of pending requests against a national peak of 7 GW. Even the cleanest grid in Europe saturates.
+But the real bottleneck is no longer capital. The private money exists (more than 200 billion euros of stated interest). What is blocking things is **connection to the electricity grid**: seven to thirteen years of queueing on average across the major European hubs, for industrial electricity roughly twice as expensive as in the United States. Denmark proved this brutally in March 2026: its grid operator had to impose a three-month moratorium on new connections, with 60 GW of pending requests against a national peak of 7 GW. Even the cleanest grid in Europe saturates.
 
-This is where French nuclear power gets cited as a sovereign asset, and you have to be precise so as not to lie. Yes, the French grid is among the least carbon-intensive in the world, around 6 gCO2 per kWh. But "low carbon intensity" does not mean "clean" or "sovereign":
+This is where French nuclear power gets cited as a sovereign asset, and you have to be precise so as not to lie. Yes, the French grid is among the least carbon-intensive in the world, around 20 to 27 gCO2 per kWh depending on the year (21.7 g in 2024 per RTE), second only to Norway in Europe. But "low carbon intensity" does not mean "clean" or "sovereign":
 
 - it is not clean: high-level waste dangerous for tens of thousands of years, with no operational deep geological storage;
 - it is not fully sovereign: uranium is imported at close to 100%, notably from Niger and Kazakhstan, with an openly acknowledged neo-colonial dimension;
@@ -46,7 +46,7 @@ This is a hard layer, and Europe is absent from it.
 
 High-bandwidth memory (HBM), indispensable to AI chips, is an Asian and American oligopoly: SK Hynix at around 62%, Micron 21%, Samsung 17%, and 0% European. All 2026 production is already sold, under non-cancellable contracts, with a shortage that extends through 2027 and beyond.
 
-The materials are worse still, because they have already been turned into a weapon. China supplies around 98% of imported rare earths and 71% of imported gallium, and controls 60% of global extraction and 90% of refining. Its extraterritorial rule known as the 0.1% rule, which took effect on 1 December 2025, extends this control to any product containing these materials. The price of gallium rose by 365% over the single year 2025. This is not a theoretical dependence: in April 2025, Western factories were brought to a halt for lack of magnets.
+The materials are worse still, because they have already been turned into a weapon. China supplies around 98% of imported rare earths and 71% of imported gallium, and controls 60% of global extraction and 90% of refining. Its extraterritorial rule known as the 0.1% rule, which took effect on 1 December 2025, extends this control to any product containing these materials; Beijing suspended it for one year (November 2025 to November 2026) under a trade truce, which disarms nothing but confirms that the tap is political and can be reopened at any moment. The price of gallium rose by 365% over the single year 2025. This is not a theoretical dependence: in April 2025, Western factories were brought to a halt for lack of magnets.
 
 ### The shortage spills over to consumers
 

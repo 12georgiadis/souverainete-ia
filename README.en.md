@@ -47,6 +47,7 @@ Everything is sourced and dated. Where serious sources contradict each other, I 
 4. [Lock-in and cutoff: market or fiefdom](en/04-lock-in-and-cutoff.md)
 5. [The bet: indispensability, other axis, demand](en/05-the-bet.md)
 6. [What could flip the table: the unknowns](en/06-what-could-flip-the-table.md)
+7. [The forgotten layer: data and consent](en/07-data-and-consent.md)
 
 Appendices: [`SOURCES.md`](SOURCES.md) (verified, dated bibliography) and [`METHODE.en.md`](METHODE.en.md) (how this document was produced, and the factual corrections owned).
 
